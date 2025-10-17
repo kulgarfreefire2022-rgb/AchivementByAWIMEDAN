@@ -10,7 +10,7 @@ pkg install python -y
 
 pip install requests
 
-git clone https://github.com/kolllmar2/cpm.git
+git clone https://github.com/kulgarfreefire2022-rgb/AchivementByAWIMEDAN
 
 cd cpm
 
@@ -32,7 +32,7 @@ apk add py3-pip
 
 pip install requests
 
-git clone https://github.com/kolllmar2/cpm.git
+git clone https://github.com/kulgarfreefire2022-rgb/AchivementByAWIMEDAN
 
 cd cpm
 
