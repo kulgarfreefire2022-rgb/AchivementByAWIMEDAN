@@ -12,9 +12,7 @@ pip install requests
 
 git clone https://github.com/kulgarfreefire2022-rgb/AchivementByAWIMEDAN
 
-cd cpm
-
-git pull
+cd AchivementByAWIMEDAN
 
 python cpm1.py for cpm1
 
@@ -34,9 +32,7 @@ pip install requests
 
 git clone https://github.com/kulgarfreefire2022-rgb/AchivementByAWIMEDAN
 
-cd cpm
-
-git pull
+cd AchivementByAWIMEDAN
 
 python3 cpm1.py for cpm1
 
